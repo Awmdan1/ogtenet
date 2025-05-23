@@ -1,4 +1,4 @@
-# 0G Labs Testnet Automation Scripts
+# Good 0g laboratorium
 
 This repository contains a collection of Python scripts designed to automate various tasks on the 0G Labs Testnet, including faucet claiming, token swapping, contract deployment, transaction sending, and NFT minting. These scripts are integrated with a central `main.py` file for streamlined execution, supporting multiple private keys and a user-friendly CLI interface.
 
